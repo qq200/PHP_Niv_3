@@ -1,6 +1,7 @@
 <!-- <pre> -->
 <?php
 class Button{
+    //
     public $text;
     public $bg_color;
     public $text_color;
@@ -29,4 +30,13 @@ var_dump($b3);
 //function hex_to_rgb($clor){
     //return [255, 66,77]
 //}
+?>
+<?php
+// __construct- introduce parametii initiali;
+// __destruct- participa la stergere pentru a elibera memoria
+// __get, __set- participa la citire si inscrierea proprietatilor
+// __toString- preface in string
+// __clone- cloneaza obiectul
+
+
 ?>
