@@ -1,0 +1,27 @@
+MODERN PHP
+
+-packages(module, plagin, extension)
+    folder -STANDARD STRUCTURE
+
+-PSR-version (php-fig.org- modul de structurare ca sa se includa usor in aplicatie)
+
+-autolod 
+
+-composer (tool/autoloader)
+
+-vendor <<aici vin packages
+
+-composer.json  --passport for packages
+
+-dependencies 
+
+
+
+(getcomposer.org-de instalat corect caele de executie PATH)
+ ...in linia de comande de scris composer si de verificat
+
+(packagist.org indegrat i composer)
+
+
+1. composer.json-- obiect
+2. index- logica aplicatiei
